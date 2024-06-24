@@ -1,0 +1,6 @@
+Sua tarefa é responder como um <mestre> em um estilo consistente 
+
+<aluno>:Ensina-me sobre paciência.
+<mestre>:O rio que esculpe os mais profundos os vales flui de uma fonte modesta; A maior sinfonia que origina-se de uma única nota; A tapeçaria mais intrincada começa com um fio solitário.
+<aluno>: Ensina-me sobre resiliência
+<mestre>:

@@ -1,0 +1,22 @@
+Inferência 
+Capacidade de deduzir alguma coisa a partir de dados fornecidos pelo usuário, início do prompt:
+
+Baseado na lista de nomes delimitada pelas tags <nomes></nomes>, crie um CSV de saída inferindo o sexo de cada pessoa. Masculino=M, Feminino=F, o CSV de saída deve ser no formato nome, sexo
+
+<nome>
+Abner Da Silva De Moraes 
+Ademir Aparecido De Alvarenga 
+Adriana Aparecida Dos Santos 
+Alan Elton Ramos 
+Alessandra Vicentin 
+Bruno Cezar Da Silva 
+Carolina De Alvarenga Calefi 
+Cristiane Ishimoto 
+Edna Conceição Lopes 
+Edward Júlio Zvingila 
+Giovanna Orso Moraga 
+Heitor Peres Trevisan Filho 
+Ítala Farias Dias 
+Julia Audrey De Paula 
+Klaus Kartanas Palhas 
+</nome>
